@@ -1,7 +1,8 @@
 Homework evaluation rubric: 
 
-- [ ] Create ``setup.sh``
-- [ ] Create new jupyter notebook that loads HCEPDB using pandas
-- [ ] Perform a simple data exploration (5 operations, transformations, etc. and a figure)
-- [ ] Modified README.md with instructions on how to run ``setup.sh``
-- [ ] Submit homework using GitHub
+- [ ] Clone the repository
+- [ ] Edit the `README.md` to include a description of the Jupyter notebook.
+- [ ] Write `docstrings` for each function you wrote in the notebook using triple doubles.
+- [ ] Add `README.md` and Jupyter notebook to stagin area.
+- [ ] Commit staged files to the respository with commit message, at least once.
+- [ ] Push the repo to GitHub.
